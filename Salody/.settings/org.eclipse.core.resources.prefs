@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/Salody/DTO/BoardAttachDTO.java=UTF-8
+encoding//src/main/java/org/Salody/DTO/BoardDTO.java=UTF-8
+encoding//src/main/java/org/Salody/DTO/BrdCriteria.java=UTF-8
+encoding//src/main/java/org/Salody/DTO/PageDTO.java=UTF-8
+encoding//src/main/java/org/Salody/controller/BoardController.java=UTF-8
+encoding//src/main/java/org/Salody/controller/ReplyController.java=UTF-8
+encoding//src/main/java/org/Salody/controller/UploadController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/home.jsp=UTF-8
