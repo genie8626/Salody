@@ -2,6 +2,7 @@
 다이어터들의 새로운 플랫폼
 
 
+![캡처](https://user-images.githubusercontent.com/73813866/105140319-dbdf3000-5b3a-11eb-808d-fcccdde77361.PNG)
 
 ![1](https://user-images.githubusercontent.com/73813866/105140177-ac302800-5b3a-11eb-979b-c63b1b848f90.PNG)
 ![2](https://user-images.githubusercontent.com/73813866/105140179-ad615500-5b3a-11eb-8847-21225bbe1513.PNG)
